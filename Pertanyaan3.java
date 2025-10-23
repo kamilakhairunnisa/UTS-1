@@ -64,7 +64,7 @@ public class Pertanyaan3 {
 
         double total = jumlahKomisi + bonus;
 
-        // output
+        // Output hasil
         System.out.println("\n=== RINCIAN KOMISI PENJUALAN ===");
         System.out.println("Omzet               : Rp " + String.format("%,.0f", omzet));
         System.out.println("Rating              : " + rating);
